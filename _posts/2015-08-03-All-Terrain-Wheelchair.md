@@ -15,5 +15,14 @@ My team talked to him and asked him what he needs out of this wheelchair and tra
 
 ![Table_1](/assets/img/atw_1.png)
 
+The final design and specifications are shown below
 
+![Design](/assets/img/atw_2.png)
 
+We conducted tipping analysis, battery analysis and torsional rigidity analysis of our chassis to ensure our design meets his needs and safety.
+
+![FEA](/assets/img/atw_3.png)
+
+Control System:
+
+We used a Arduino Mega to control 4 800W In-Hub BLDC motors with e-bike motor controllers to control each motor independently. The system is powered by 16 LiFeP04 3.2 V batteries, monitored by BMS, giving us total of 48V at 40AH. We designed and 3D printed the joystick.

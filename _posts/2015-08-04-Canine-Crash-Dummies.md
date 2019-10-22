@@ -20,15 +20,15 @@ Build and test the newly designed dummy.
 My research group decided to focus on medium-large sized breeds.
 
 Design specifications:
--Weight: ~80 pounds
--Height: ~24 inches
--Length: ~27 inches
--Width: ~13 inches
+- Weight: ~80 pounds
+- Height: ~24 inches
+- Length: ~27 inches
+- Width: ~13 inches
 Fabrication Methods: milling, lathing, welding, water jetting, welding, and 3D printing.
 
 Future Work:
 
--Conduct more in-depth research into the weight distribution of dogs and insert lead weights in appropriate places.
--Design better head attachment that looks more like a dog.
--Cover metal structure with form-fitting foam and fabric to avoid damage to the harness during testing
--Test the dummy on the impact sled to determine weakness in the structure
+- Conduct more in-depth research into the weight distribution of dogs and insert lead weights in appropriate places.
+- Design better head attachment that looks more like a dog.
+- Cover metal structure with form-fitting foam and fabric to avoid damage to the harness during testing
+- Test the dummy on the impact sled to determine weakness in the structure

@@ -2,7 +2,13 @@
     {% include head-post.html %}
     <body>
        <section class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
+            <div class="user-details">
+                <h1> About Me </h1>
+                <p align="left"> {{site.user_description}} </p>
+                <article role="article" id="scroll" class="post-content" itemprop="articleBody">
+                    {{ content }}
+                </article>
+            </div>
             <article role="article" id="scroll" class="post-content" itemprop="articleBody">
                 {{ content }}
             </article>

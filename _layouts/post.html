@@ -5,7 +5,7 @@
             <div role="article" id="scroll" class="post-content" itemprop="articleBody">
                 <h1> {% if post.title %}{% include {{ post.title }} %}{% endif %} </h1>
                 <h1> {% if title %}{% include {{ title }} %}{% endif %} </h1>
-                <h1> {{ include.title }} </h1>
+                <h1> {{posts.title}} </h1>
                 <p align="center"> {{posts.title}} </p>
                 <article role="article" id="scroll" class="post-content" itemprop="articleBody">
                     {{ content }}

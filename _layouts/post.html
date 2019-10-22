@@ -4,7 +4,7 @@
        <section class="post" itemscope itemtype="http://schema.org/BlogPosting">
             <div class="user-details">
                 <h1> {% if post.title %}{% include {{ post.title }} %}{% endif %} </h1>
-                <h1> {% if page.title %}{% include {{ page.title }} %}{% endif %} </h1>
+                <h1> {% if title %}{% include {{ title }} %}{% endif %} </h1>
                 <h1> YYY </h1>
                 <p align="left"> {{post.title}} </p>
                 <article role="article" id="scroll" class="post-content" itemprop="articleBody">

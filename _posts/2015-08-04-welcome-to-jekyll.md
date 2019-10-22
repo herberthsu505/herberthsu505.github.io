@@ -3,6 +3,7 @@ layout: post
 title: "Welcome to Jekyll"
 date: 2015-08-04 03:21:35
 image: '/assets/img/'
+permalink: /project1/
 description: 'Put your description here.'
 tags:
 - jekyll

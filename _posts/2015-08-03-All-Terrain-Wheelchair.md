@@ -13,7 +13,7 @@ The goal of this project is to help Jason, our sponsor who is disabled, increase
 
 My team talked to him and asked him what he needs out of this wheelchair and transformed his user needs into engineering requirements.
 
-![Table_1](/assets/images/atw_1.png)
+![Table_1](/assets/img/atw_1.png)
 
 
 

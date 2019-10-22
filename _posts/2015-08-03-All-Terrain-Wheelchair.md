@@ -23,6 +23,10 @@ We conducted tipping analysis, battery analysis and torsional rigidity analysis 
 
 ![FEA](/assets/img/atw_3.png)
 
+![Battery](/assets/img/atw_4.png)
+
+![Tipping](/assets/img/atw_5.png)
+
 Control System:
 
 We used a Arduino Mega to control 4 800W In-Hub BLDC motors with e-bike motor controllers to control each motor independently. The system is powered by 16 LiFeP04 3.2 V batteries, monitored by BMS, giving us total of 48V at 40AH. We designed and 3D printed the joystick.

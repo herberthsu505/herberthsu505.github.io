@@ -2,7 +2,7 @@
     {% include head-post.html %}
     <body>
        <section class="post" itemscope itemtype="http://schema.org/BlogPosting">
-            <div class="user-details">
+            <div role="article" id="scroll" class="post-content" itemprop="articleBody">
                 <h1> {% if post.title %}{% include {{ post.title }} %}{% endif %} </h1>
                 <h1> {% if title %}{% include {{ title }} %}{% endif %} </h1>
                 <h1> {{ include.title }} </h1>

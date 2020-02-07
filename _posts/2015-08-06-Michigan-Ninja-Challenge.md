@@ -17,3 +17,9 @@ The main challenge for the robot was to navigate across a narrow bridge around t
 
 ![Tipping](/assets/img/atw_5.png)
 
+
+We used a Arduino Mega to control 4 800W In-Hub BLDC motors with e-bike motor controllers to control each motor independently.
+
+The system is powered by 16 LiFeP04 3.2 V batteries, monitored by BMS, giving us total of 48V at 40AH. We designed and 3D printed the joystick.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Ac5SBsI1DA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

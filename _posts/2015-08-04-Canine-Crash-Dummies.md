@@ -37,3 +37,5 @@ Future Work:
 - Design better head attachment that looks more like a dog.
 - Cover metal structure with form-fitting foam and fabric to avoid damage to the harness during testing
 - Test the dummy on the impact sled to determine weakness in the structure
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Ac5SBsI1DA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

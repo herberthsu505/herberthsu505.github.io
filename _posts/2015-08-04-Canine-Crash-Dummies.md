@@ -7,9 +7,9 @@ permalink: /Canine-Crash-Dummies/
 description: 'Put your description here.'
 ---
 
-# Canine Crash Dummiess
+# Canine Crash Dummiesss
 
-The goal of this project is to develop dog crash test dummies for dynamic testing of automotive⋅⋅
+The goal of this project is to develop dog crash test dummies for dynamic testing of automotive
 
 pet harnesses and carriers for the University of Michigan Transportation Research Institute.
 

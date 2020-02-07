@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "All-Terrain Wheelchair"
 date: 2015-08-03 03:32:44
 image: '/assets/img/'

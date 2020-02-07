@@ -15,7 +15,7 @@ The main challenge for the robot was to navigate across a narrow bridge around t
 
 ![Design](/assets/img/ninja_2.png)
 
-![Tipping](/assets/img/atw_5.png)
+![Tipping](/assets/img/ninja_3.png)
 
 
 We used a Arduino Mega to control 4 800W In-Hub BLDC motors with e-bike motor controllers to control each motor independently.

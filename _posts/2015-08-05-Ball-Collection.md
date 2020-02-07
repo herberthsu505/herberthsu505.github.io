@@ -7,7 +7,7 @@ permalink: Ball-Collection/
 description: 'First steps to use this template'
 ---
 
-# All-Terrain Wheelchairr
+# ME 350: Design and Manufacturing II, Ball Collection (2017)
 
 The goal of this project is to design and build an automated mechanism which can catch balls from two chutes and sort them into the correct place based on color.
 

@@ -1,12 +1,26 @@
 <html lang="en">
     {% include head-post.html %}
+    <style type="text/css">
+    #wrapper{
+    text-align:left;
+    width:600px;
+    }
+    #wrap {
+    float: left;
+    position: relative;
+    left: 50%;
+    }
+    #content {
+    float: left;
+    position: relative;
+    left: -50%;
+    }
+    </style>
     <body>
-       <section class="post" itemscope itemtype="http://schema.org/BlogPosting">
-           <div class="user-details">
-                  {{ content }}
-            </div>
-            {% include footer.html %}
-           
-        </section>
+       <div id="wrap">
+           <div id="content">
+              {{ content }}
+           </div>
+       </div>
   </body>
 </html>

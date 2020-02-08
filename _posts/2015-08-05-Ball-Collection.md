@@ -7,6 +7,7 @@ permalink: Ball-Collection/
 description: 'First steps to use this template'
 ---
 
+<p align="left"> 
 The goal of this project is to design and build an automated mechanism which can catch balls from two chutes and sort them into the correct place based on color.
 
 We first utilized ADAMS to optimize the position of the four bar linkage based on the motor power and weight.
@@ -21,6 +22,6 @@ Wiring diagram for the color sensor and motor. PID controls are used to control 
 
 ![Tipping](/assets/img/bc_3.png)
 
-
+</p>
 
 

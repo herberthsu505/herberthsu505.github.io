@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "Ball Collection"
+title: "ME 350: Design and Manufacturing II, Ball Collection (2017)"
 date: 2015-08-03 03:32:44
 image: '/assets/img/'
 permalink: Ball-Collection/
 description: 'First steps to use this template'
 ---
-
-# ME 350: Design and Manufacturing II, Ball Collection (2017)
 
 The goal of this project is to design and build an automated mechanism which can catch balls from two chutes and sort them into the correct place based on color.
 

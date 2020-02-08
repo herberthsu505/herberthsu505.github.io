@@ -7,8 +7,8 @@ permalink: /Canine-Crash-Dummies/
 description: 'Put your description here.'
 ---
 
-# Canine Crash Dummies
-
+<p align="left">
+  
 The goal of this project is to develop dog crash test dummies for dynamic testing of automotive
 
 pet harnesses and carriers for the University of Michigan Transportation Research Institute.
@@ -25,10 +25,10 @@ Build and test the newly designed dummy.
 My research group decided to focus on medium-large sized breeds.
 
 Design specifications:
-⋅⋅* Weight: ~80 pounds
-⋅⋅* Height: ~24 inches
-⋅⋅* Length: ~27 inches
-⋅⋅* Width: ~13 inches
+- Weight: ~80 pounds
+- Height: ~24 inches
+- Length: ~27 inches
+- Width: ~13 inches
 Fabrication Methods: milling, lathing, welding, water jetting, welding, and 3D printing.
 
 Future Work:
@@ -38,4 +38,4 @@ Future Work:
 - Cover metal structure with form-fitting foam and fabric to avoid damage to the harness during testing
 - Test the dummy on the impact sled to determine weakness in the structure
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6Ac5SBsI1DA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>

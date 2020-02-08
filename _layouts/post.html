@@ -1,27 +1,10 @@
 <html lang="en">
     {% include head-post.html %}
-    <style type="text/css">
-    #wrapper{
-    text-align:left;
-    width:600px;
-    }
-    #wrap {
-    float: left;
-    position: relative;
-    left: 50%;
-    }
-    #content {
-    float: left;
-    position: relative;
-    left: -50%;
-    }
-    </style>
+    
     <body>
-       <div id="wrap">
-           <div id="content">
-              {{ content }}
-           </div>
-       </div>
-       
+        <div class="user-details">
+            <h1> {{ page.title }} </h1>
+            <p align="left"> {{ content }} </p>
+        </div>
   </body>
 </html>

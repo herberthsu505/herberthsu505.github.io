@@ -42,6 +42,7 @@ body {
 
 .container {
     max-width: var(--container-max-width);
+    min-width: 600px;
     margin: 0 auto;
     padding: var(--container-padding);
     text-align: left;
@@ -131,36 +132,3 @@ h1 {
 }
 
 /* Mobile responsiveness */
-@media (max-width: 480px) {
-    .container {
-        padding: 32px 16px;
-        /* Reduced padding to give more width */
-        max-width: 100%;
-    }
-
-    .header {
-        margin-bottom: var(--header-margin-bottom);
-    }
-
-    /* Mobile font size matching reference */
-    body {
-        font-size: 13.5px;
-    }
-
-    .list-item,
-    .current-role,
-    .subtitle,
-    .section-title {
-        font-size: 13.5px;
-        white-space: normal;
-        /* Allow wrapping as per reference */
-    }
-
-    h1 {
-        font-size: 15px;
-    }
-
-    .separator {
-        margin: 0 0.2rem;
-    }
-}

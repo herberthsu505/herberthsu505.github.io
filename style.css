@@ -198,6 +198,11 @@ h1 {
         gap: 3px;     /* Slight gap between vertically stacked elements */
     }
     
+    /* Align CONTACT list line spacing to perfectly match the dense PAST layout */
+    .section:last-of-type .list {
+        gap: 3px;
+    }
+    
     .separator {
         display: none;
     }

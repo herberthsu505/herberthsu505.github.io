@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <style>
+    circle { fill: #18181b; }
+    text { 
+        fill: #fafafa; 
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+        font-size: 55px; 
+        font-weight: 600; 
+        text-anchor: middle; 
+        dominant-baseline: central; 
+    }
+    @media (prefers-color-scheme: dark) {
+      circle { fill: #fafafa; }
+      text { fill: #09090b; }
+    }
+  </style>
+  <circle cx="50" cy="50" r="50" />
+  <text x="50" y="53">H</text>
+</svg>
